@@ -21,7 +21,7 @@ I work as a ~~web designer~~ front-end developer with UI/UX design skills (front
 Since 3 years I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 <!-- BLOG-POST-LIST:START -->
-- [What I have learned by working remotely in this pandemic period](www.codebloom.co)
+- [What I have learned by working remotely in this pandemic period](https:\\www.codebloom.co)
 - [How to apply emotional design in your projects](www.codebloom.co)
 - [Automating UI tests with Jest and React Testing Library](www.codebloom.co)
 - [Inspiring web designers and developers to follow on Twitter](www.codebloom.co)
