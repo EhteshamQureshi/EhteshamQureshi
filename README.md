@@ -21,9 +21,9 @@ I work as a ~~web designer~~ front-end developer with UI/UX design skills (front
 Since 3 years I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 <!-- BLOG-POST-LIST:START -->
-- [What I have learned by working remotely in this pandemic period](https://dev.to/diogorodrigues/what-i-have-learned-by-working-remotely-in-this-pandemic-period-2ehm)
-- [How to apply emotional design in your projects](https://dev.to/diogorodrigues/how-to-apply-emotional-design-in-your-projects-798)
-- [Automating UI tests with Jest and React Testing Library](https://dev.to/diogorodrigues/automating-ui-tests-with-jest-and-react-testing-library-28fb)
-- [Inspiring web designers and developers to follow on Twitter](https://dev.to/diogorodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
-- [Why I decided to develop my site in Gatsby](https://dev.to/diogorodrigues/why-i-decided-to-develop-my-site-in-gatsby-3poc)
+- [What I have learned by working remotely in this pandemic period](www.codebloom.co)
+- [How to apply emotional design in your projects](www.codebloom.co)
+- [Automating UI tests with Jest and React Testing Library](www.codebloom.co)
+- [Inspiring web designers and developers to follow on Twitter](www.codebloom.co)
+- [Why I decided to develop my site in Gatsby](www.codebloom.co)
 <!-- BLOG-POST-LIST:END -->
