@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I work as a fullstack developer ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Islamabad, Pakistan.
 
-Since 4 years I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+Since 4 years I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨
 
 <!-- BLOG-POST-LIST:START -->
 - [What I have learned by working remotely in this pandemic period](https://codebloom.co/)
