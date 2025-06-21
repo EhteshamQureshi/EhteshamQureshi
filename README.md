@@ -4,7 +4,7 @@
 
 💻 Fullstack Developer | 🎨 UI/UX Front-End Designer | ☁️ Backend & Cloud Engineer  
 📈 Aspiring Technical Product Manager | 📚 Engineering Management Grad Student @ Stevens  
-📍 Islamabad, Pakistan | 🌎 Open to remote opportunities
+📍 Hoboken, Pakistan | 🌎 Open to opportunities
 
 ---
 
