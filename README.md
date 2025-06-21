@@ -1,24 +1,40 @@
 ### Hi there 👋
 
-<!--
-**EhteshamQureshi/EhteshamQureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm [Ehtesham Qureshi](https://www.codebloom.co/about)
 
-Here are some ideas to get you started:
+💻 Fullstack Developer | 🎨 UI/UX Front-End Designer | ☁️ Backend & Cloud Engineer  
+📈 Aspiring Technical Product Manager | 📚 Engineering Management Grad Student @ Stevens  
+📍 Islamabad, Pakistan | 🌎 Open to remote opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ehtesham Qureshi](https://www.codebloom.co/about)!
+---
 
-I work as a fullstack developer ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Islamabad, Pakistan.
+I've been building websites, web apps, and intuitive UIs for **4+ years** — and along the way, I’ve explored everything from **React and Tailwind**, to **Spring Boot APIs**, to **AWS deployments** and **Power BI dashboards**. I love blending **code + design** to solve real-world problems and simplify the user experience.
 
-Since 4 years I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨
+I’ve worked with international clients like **FIFA**, helped ship SaaS products, and currently support campus-wide tech events at Stevens.
+
+---
+
+### 🚀 What I’m Up To
+
+- 📚 Learning product strategy, scalable cloud architecture, and agile team leadership  
+- 🧠 Working on microservices and data-driven dashboards  
+- ✨ Exploring how design thinking fits into software & product delivery  
+- 💼 Building toward a **Technical Product Manager** or hybrid **Software Engineer** role
+
+---
+
+### 🧰 Tech Toolbox
+
+- **Languages**: Java, JavaScript, Python, SQL, HTML/CSS  
+- **Frontend**: React, Next.js, Tailwind CSS, Figma  
+- **Backend**: Spring Boot, REST APIs, Microservices  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Cloud & Tools**: AWS (EC2/RDS), Docker, Kubernetes, GitHub, JIRA  
+- **Testing**: JUnit, Mockito, Jest  
+
+---
+
+### ✍️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [What I have learned by working remotely in this pandemic period](https://codebloom.co/)
@@ -27,3 +43,16 @@ Since 4 years I've been living and breathing web development and creating modern
 - [Inspiring web designers and developers to follow on Twitter](https://codebloom.co/)
 - [Why I decided to develop my site in Gatsby](https://codebloom.co/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🤝 Let's Connect
+
+- 🌐 [Portfolio / Blog](https://www.codebloom.co)  
+- 💼 [LinkedIn](https://linkedin.com/in/equreshie)  
+- 📧 equreshi@stevens.edu  
+- 🔍 [ORCID](https://orcid.org/0009-0001-1412-0973)
+
+---
+
+> ⚡ *Code with empathy. Build with purpose. Learn endlessly.*
